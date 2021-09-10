@@ -1,0 +1,19 @@
+{
+    "name": "mihpack/contact",
+    "description": "This is a package of laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Md. Imran Hossain",
+            "email": "mdimranhossain985@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mihpack\\Contact\\": "src/"
+        }
+    }
+}
