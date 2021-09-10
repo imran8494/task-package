@@ -15,5 +15,12 @@
         "psr-4": {
             "Mihpack\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mihpack\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
